@@ -1,6 +1,8 @@
 # predictingDowJones1-D_CNN_RNN
 Use Reddit News Headlines to predict the movement of Dow Jones Industrial Average.
 
+![alt text](https://github.com/Ashutosh27ind/predictingDowJones1-D_CNN_RNN/blob/main/Dataflow_text_based%2Bprediction.PNG?raw=true)
+
 ## Problem Statement & Reference Architecture
 
 * **Aim**: Use Reddit News Headlines to predict the movement of Dow Jones Industrial Average.   
